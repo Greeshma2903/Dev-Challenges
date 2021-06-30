@@ -36,14 +36,14 @@
 
 ## Overview
 
-![screenshot](404-not-found-master/Challenge-snippet.png)
+![screenshot](https://github.com/Greeshma2903/Dev-Challenges/blob/815fdde202d672907eced6feefcd8202568bc7f1/404-not-found-master/Challenge-snippet.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
 
 - What was your experience?
-  I was able to revise my CSS skills and practiced using semantic HTML. It was a fun little project that I was able to get done quickly.
+  - I was able to revise my CSS skills and practiced using semantic HTML. It was a fun little project that I was able to get done quickly.
 
 - What have you learned/improved?
   - I learnt how to make use of **media queries** in a better way. 
@@ -51,7 +51,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
   - Learnt how to make the [footer stick to the bottom](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/).
 
 - Your wisdom? :)
-  Order in which you write **media queries** matter, so take care of it ;)
+  - Order in which you write **media queries** matter, so take care of it ;)
 
 ### Built With
 
@@ -77,6 +77,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [greeshma.netlify.app](https://greeshma-portfolio.netlify.app/)
+- Website : [greeshma.netlify.app](https://greeshma-portfolio.netlify.app/)
 - GitHub [@Greeshma2903](https://{github.com/Greeshma2903})
 
