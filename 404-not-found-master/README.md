@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://dev-challenges-zeta.vercel.app/">
       Demo
     </a>
     <span> | </span>
@@ -41,6 +41,7 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+   - Find it [here](https://dev-challenges-zeta.vercel.app/). :)
 
 - What was your experience?
   - I was able to revise my CSS skills and practiced using semantic HTML. It was a fun little project that I was able to get done quickly.
