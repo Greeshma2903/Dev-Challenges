@@ -7,89 +7,100 @@
       content="width=device-width, initial-scale=1,
   maximum-scale=5"
     />
-
-    <link rel="icon" href="devchallenges.png" />
-
-    <link
-      rel="shortcut icon"
-      type="image/x-icon"
-      href="https://devchallenges.io/"
-    />
-
-    <link
-      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap"
-      rel="stylesheet"
-    />
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="favicon" href="./devchallenges.png" type="image/x-icon" />
 
     <title>Devchallenges</title>
-
-    <style>
-      body {
-        font-family: "Poppins", sans-serif;
-      }
-
-      ul {
-        padding-left: 24px;
-      }
-
-      li {
-        margin-bottom: 8px;
-      }
-
-      .welcome {
-        max-width: 800px;
-        margin: 0 auto;
-      }
-
-      .welcome-text {
-        margin-top: 30vh;
-        font-weight: 500;
-      }
-
-      .welcome-text p {
-        font-size: 1rem;
-        font-weight: 400;
-      }
-
-      .welcome-text h1 {
-        font-size: 1.5rem;
-      }
-
-      .welcome-text a {
-        color: #f7542e;
-      }
-    </style>
   </head>
   <body>
-    <div class="welcome">
-      <div class="welcome-text">
-        <h1>
-          Welcome to
-          <a href="https://devchallenges.io/" target="_blank"
-            >devchallenges.io</a
-          >
-        </h1>
+    <main>
+      <header>
+        <h1>The creative crew.</h1>
+        <div class="header-desc">
+          <h3>who we are</h3>
+          <p class="header-para">
+            We are team of creatively diverse. driven. innovative individuals
+            working in various locations from the world.
+          </p>
+        </div>
+      </header>
 
-        <p>
-          If you have any questions, don't hesitate to ask on Discord. Here are
-          7 general steps to complete the challenge:
-        </p>
-      </div>
+      <!-- the team memebers -->
+      <section class="the-team">
+        <!-- member 1 -->
+        <div class="team-member member-1">
+          <div class="profile-holder">
+            <img
+              src="./photo1.png"
+              alt="Bill Mahoney's Image"
+              class="profile-img"
+            />
+            <h3 class="profile-name">Bill Mahoney</h3>
+          </div>
+          <p class="designation">Product owner</p>
+        </div>
 
-      <ul>
-        <li><b>Step 1:</b> Create a new repository on github</li>
-        <li><b>Step 2:</b> Copy resources, README.md to your repository</li>
-        <li>
-          <b>Step 3:</b> Login to Figma to checkout font, color, spacing,..
-        </li>
-        <li><b>Step 4:</b> Complete all user stories</li>
-        <li><b>Step 5:</b> Update README.md</li>
-        <li><b>Step 6:</b> Deploy your app and submit your solution</li>
-        <li>
-          <b>Step 7:</b> Share your solution on Discord, Twitter and other
-          platforms to ask for feedback
-        </li>
-      </ul>
-    </div>
+        <!-- member 2 -->
+        <div class="team-member member-2">
+          <div class="profile-holder">
+            <img
+              src="./photo2.png"
+              alt="Saba Cabrera's Image"
+              class="profile-img"
+            />
+            <h3 class="profile-name">Saba Cabrera</h3>
+          </div>
+          <p class="designation">Art director</p>
+        </div>
+
+        <!-- member 3 -->
+        <div class="team-member member-3">
+          <div class="profile-holder">
+            <img src="./photo3.png" alt="Shae Le's Image" class="profile-img" />
+            <h3 class="profile-name">Shae Le</h3>
+          </div>
+          <p class="designation">Tech Lead</p>
+        </div>
+
+        <!-- member 4 -->
+        <div class="team-member member-4">
+          <div class="profile-holder">
+            <img
+              src="./photo4.png"
+              alt="Skylah Lu's Image"
+              class="profile-img"
+            />
+            <h3 class="profile-name">Skylah Lu</h3>
+          </div>
+          <p class="designation">UX Designer</p>
+        </div>
+
+        <!-- member 5 -->
+        <div class="team-member member-5">
+          <div class="profile-holder">
+            <img
+              src="./photo5.png"
+              alt="Griff Richards's Image"
+              class="profile-img"
+            />
+            <h3 class="profile-name">Griff Richards</h3>
+          </div>
+          <p class="designation">Developer</p>
+        </div>
+
+        <!-- member 6 -->
+        <div class="team-member member-6">
+          <div class="profile-holder">
+            <img
+              src="./photo6.png"
+              alt="Stan John's Image"
+              class="profile-img"
+            />
+            <h3 class="profile-name">Stan John</h3>
+          </div>
+          <p class="designation">Developer</p>
+        </div>
+      </section>
+    </main>
   </body>
 </html>
