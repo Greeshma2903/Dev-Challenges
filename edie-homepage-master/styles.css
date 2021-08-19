@@ -286,12 +286,12 @@ input {
   padding: 10px 1rem;
   border: none;
   border-radius: 13px;
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 
 .contact-container {
   background-color: var(--contact-bg);
-  padding: 6px;
+  padding: 5px;
   border-radius: 12px;
   width: 100%;
   max-width: 340px;
@@ -301,7 +301,8 @@ input {
 
 #contact-field {
   background-color: inherit;
-  width: 250px;
+  max-width: 300px;
+  width: 100%;
 }
 
 .submit-contact {
