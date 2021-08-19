@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Edie Homepage</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://edie-home-page-ivory.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Greeshma2903/Dev-Challenges/tree/main/edie-homepage-master">
       Solution
     </a>
     <span> | </span>
@@ -29,7 +29,6 @@
 - [Overview](#overview)
   - [Built With](#built-with)
 - [Features](#features)
-- [How to use](#how-to-use)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
@@ -37,22 +36,29 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/Greeshma2903/Dev-Challenges/blob/c79eaa7785c5f49d66a3ed929e65a101e3bfb75d/edie-homepage-master/screenshot.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
 - What was your experience?
+   - This was a very interesting challenge for me. I had planned on practicing new things on this challenge. I used dark-mode for the first time and so was the sticky header. It literally made me realize how much fun using css can be 😃
 - What have you learned/improved?
+   - I learned to implement dark-mode on a website.
+   - Practiced sticky headers.
+   - I practiced CSS Grid basics (though I still 💙 Flexbox 💪).
+   - Learnt how maintaining minimum color-contrast is important for accessibility.
+   - Smooth scrolling is another concept I learnt.
 - Your wisdom? :)
+   - Try to make things work with Flexbox before trying Grid 😉
+   - Dark mode option is lit
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- HTML
+- CSS3
+- JavaScript
 
 ## Features
 
@@ -60,33 +66,18 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/xobQBuf8zWWmiYMIAZe0) was to build an application to complete the given user stories.
 
-## How To Use
-
-<!-- Example: -->
-
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
-```
-
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [Most lit article on how to implement Dark mode on Web](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
+- [How to add Dark theme: for simple webpages](https://academind.com/tutorials/adding-dark-mode/)
+- [Material Design's articles of implementing good Dark themes](https://www.material.io/design/color/dark-theme.html)
+- [Dark mode color schemes: Inspiration](https://colorhunt.co/palettes/dark)
+- [Examples: Sites with sticky headers](https://templatepocket.com/sticky-navigation-bar-on-scroll/)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [greeshma-portfolio.netlify.app]( https://greeshma-portfolio.netlify.app/)
+- GitHub [@Greeshma2903](https://github.com/Greeshma2903)
+- Twitter [@GreeshmaMedam](https://twitter.com/GreeshmaMedam)
