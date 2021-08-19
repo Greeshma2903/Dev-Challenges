@@ -263,7 +263,7 @@ div.theme-switch {
 #home p,
 #home label,
 #home .contact-container {
-  margin: 0 10%;
+  margin: 0 8%;
 }
 
 #home h2 {
@@ -293,7 +293,10 @@ input {
   background-color: var(--contact-bg);
   padding: 6px;
   border-radius: 12px;
-  width: 338px;
+  width: 100%;
+  max-width: 340px;
+  display: flex;
+  justify-content: space-between;
 }
 
 #contact-field {
@@ -314,7 +317,7 @@ input {
 
 /* --------------------- services -------------------- */
 #services {
-  margin: 25px;
+  margin: 20px;
 }
 
 #services h2 {
@@ -395,7 +398,7 @@ input {
 
 /* ------------------- works -------------------- */
 #works {
-  margin: 25px;
+  margin: 20px;
 }
 
 #works h2 {
@@ -455,7 +458,7 @@ input {
 
 /* ----------------- team & clients ------------------ */
 #clients {
-  margin: 25px;
+  margin: 20px;
 }
 
 #clients .the-team {
@@ -539,7 +542,7 @@ p.meet-team {
 footer#contact {
   background-color: var(--footer-bg);
   color: var(--footer-text);
-  padding: 8% 8% 0 8%;
+  padding: 8% 8% 0 10%;
 }
 
 .footer-contact {
@@ -547,6 +550,7 @@ footer#contact {
   flex-direction: column;
   justify-content: space-between;
   align-items: left;
+  margin-bottom: 8%;
 }
 
 #contact ul {
@@ -594,7 +598,7 @@ footer#contact {
 
 footer .attribution {
   margin-top: 2rem;
-  height: 50px;
+  height: 80px;
   text-align: center;
   margin-top: 5rem;
 }
